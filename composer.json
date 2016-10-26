@@ -1,0 +1,12 @@
+{
+    "name": "parse-sqlite-to-firebase",
+    "authors": [
+        {
+            "name": "MeoChuot",
+            "email": "email@hotmail.com"
+        }
+    ],
+    "require": {
+        "kreait/firebase-php": "^2.0@beta"
+    }
+}
